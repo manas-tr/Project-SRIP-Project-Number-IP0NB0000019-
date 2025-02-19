@@ -1,5 +1,7 @@
 YOLO-Based Solar Panel Detection:
 
+The code is in the jupyter notebook and can be accessed at \_sripproj\_proj0\scripts\_srip2025
+
 Overview:
 This project implements a YOLO-based deep learning model for detecting solar panels in aerial images, contributing to automated renewable energy assessments.
 
