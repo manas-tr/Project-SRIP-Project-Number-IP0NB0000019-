@@ -1,0 +1,6 @@
+path: C:\Users\manas\Downloads\_sripproj\_proj0\dataset\split_data
+train: train/images
+val: val/images
+
+nc: 1
+names: ["solar_panel"]
